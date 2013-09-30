@@ -1,7 +1,7 @@
 PATH
-  remote: /home/marcus/Work/github/raise_test_exception
+  remote: /home/marcus/Work/repos/github/raise_test_exception
   specs:
-    raise_test_exception (0.0.1)
+    raise_test_exception (0.0.2)
       rails (>= 3.2.0, <= 4.1)
 
 GEM
