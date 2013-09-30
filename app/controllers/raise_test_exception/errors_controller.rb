@@ -1,5 +1,5 @@
 class RaiseTestException::ErrorsController < ActionController::Base
   def error
-    raise TestException.new("Exception notification works...")
+    raise RaiseTestException::Errors::TestException.new("Exception notification works...")
   end
 end
