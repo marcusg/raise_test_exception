@@ -10,7 +10,7 @@ Raise an exception to test if exception_nofier really works.
 ## What and why
 
 Simple Rails engine providing a route (and controller action) you can access from inside your application to raise an exception. 
-This should trigger you exception notifier and you should receive an email (or whatever you've configured). 
+This should trigger the exception notifier and you should receive an email (or whatever you've configured). 
 
 ## Requirements
 
