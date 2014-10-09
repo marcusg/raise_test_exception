@@ -5,7 +5,7 @@
 [![Code Climate](https://codeclimate.com/github/marcusg/raise_test_exception.png)](https://codeclimate.com/github/marcusg/raise_test_exception)
 [![Dependency Status](https://gemnasium.com/marcusg/raise_test_exception.png)](https://gemnasium.com/marcusg/raise_test_exception)
 
-Raise an exception to test if exception_nofier really works.
+Raise an exception to test if exception_notifier really works.
 
 ## What and why
 
